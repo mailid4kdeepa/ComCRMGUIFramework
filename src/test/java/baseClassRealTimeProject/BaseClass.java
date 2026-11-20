@@ -36,6 +36,9 @@ public JavaUtility jlib=new JavaUtility();
 	public void configAS()
 	{
 		System.out.println("=========close DB==========");
+		System.out.println("=========close DB==========");
+		System.out.println("=========close DB==========");
+		System.out.println("=========close DB==========");
 	}
 
 	
